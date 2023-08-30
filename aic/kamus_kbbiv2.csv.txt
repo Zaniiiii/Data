@@ -1,5 +1,5 @@
 kataAlay,kataBaik
-rpp,
+rpp,rencanapelaksanaanpembelajaran
 pjj,pembelajaranjarakjauh
 jan,jangan
 emg,memang
